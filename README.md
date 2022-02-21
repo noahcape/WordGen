@@ -11,7 +11,7 @@ Running WordGen:
 
 example:
 
-`$ java WordGen 5 < texts/Suess.txt`
+`$ java WordGen 5 < texts/Seuss.txt`
 
 Running WordAnalysis:
 
@@ -19,6 +19,6 @@ Running WordAnalysis:
 
 example:
 
-`$ java WordAnalysis < texts/Suess.txt`
+`$ java WordAnalysis < texts/Seuss.txt`
 
 Author: Noah Cape
